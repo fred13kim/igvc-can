@@ -187,3 +187,6 @@ with the following Signals:
         ('SystemStatus', 'ESTOP')
         ('Counter', 46)
 ```
+
+# PYQTGRAPH IN WORKS DURING WINTER BREAK & SPRING
+Just need to reformat output of current program and pipe into PyQtGraph plotting library
