@@ -113,10 +113,11 @@ The second value `can0` is the physical CAN interface.
 The third value `0E3` is the CAN FRAME ID which corresonds to `dbwNode_Status_Brake` in the dbc file.
 The fourth value `[2]` is the number in bytes of data.
 The fifth value `78 00` is the CAN FRAME DATA
-
+```
 78 00 hex:
      0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0
 Bit: 7 - - - - - - 0 15- - - - - - 0
+```
 
 Let's decode this message:
 First let's extract the signal bits:
