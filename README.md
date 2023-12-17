@@ -1,1 +1,1 @@
-# igvc_gui
+# IGVC GUI

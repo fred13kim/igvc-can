@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: igvcutils
+Version: 0.0.4
+Summary: IGVC utilities
+Home-page: https://github.com/CooperUnion/selfdrive/tree/master/common/igvcutils
+Author: Cooper IGVC
+Author-email: igvc@cooper.edu
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+Requires-Dist: cantools>=37.0.7
+Requires-Dist: python-can>=3.3.4
+
+# igvcutils

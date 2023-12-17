@@ -1,0 +1,10 @@
+README.md
+setup.py
+src/igvcutils/__init__.py
+src/igvcutils/can.py
+src/igvcutils/ctrl.py
+src/igvcutils.egg-info/PKG-INFO
+src/igvcutils.egg-info/SOURCES.txt
+src/igvcutils.egg-info/dependency_links.txt
+src/igvcutils.egg-info/requires.txt
+src/igvcutils.egg-info/top_level.txt
