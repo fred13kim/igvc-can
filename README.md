@@ -1,8 +1,8 @@
-# IGVC GUI
+# IGVC CAN
 
-FRED KIM IGVC GUI DOCUMENTATION
+FRED KIM IGVC CAN DOCUMENTATION
 
-Before diving into the CAN GUI and how it works, it is important to understand what CAN is.
+Before diving into the CAN DUMPS and how they work, it is important to understand what CAN is.
 
 ## CAN
 This is a high level understanding of what CAN is and how it works:
